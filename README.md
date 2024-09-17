@@ -22,6 +22,11 @@ angle - угол броска
 Vx = V0 * cos(angle)
 Vy = V0 * sin(angle)
 
+t = (Vy + sqrt(Vy^2 + 2 * g * h0)) / g
+
+x = Vx * t
+y = y0 + Vy * t - 0.5 * g * t^2
+
 ## Сценарий взаимодействия с программой:
 
 1. Запустить программу (main.exe)
