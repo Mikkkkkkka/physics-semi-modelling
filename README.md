@@ -31,7 +31,7 @@ Vy = V0 * sin(angle)
 ### Скриншоты
 
 #### Терминал
-![](/image.png)
+![](/Terminal.png)
 
 #### Визуальный интерфейс
 ![](/VIscreenshot.png)
