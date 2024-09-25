@@ -19,7 +19,9 @@ def draw_graph(t, x, y, r, velocity):
         traj.set_ydata(y[:frame])
         return traj,
 
-    anim = FuncAnimation(fig=figure, func=update, frames=60, interval=50 - (velocity / r))
+    angle_velocity = velocity / r
+
+    anim = FuncAnimation(fig=figure, func=update, frames=60, interval=200 / angle_velocity)
     plt.show()
 
 
