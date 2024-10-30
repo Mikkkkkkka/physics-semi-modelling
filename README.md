@@ -30,7 +30,9 @@ $$\alpha=\frac{V}{r}$$
 
 ### Скриншоты
 #### Терминал
+
 ![terminal.png](img/terminal.png)
 
 #### Визуальный интерфейс
+
 ![visual.png](img/visual.png)
