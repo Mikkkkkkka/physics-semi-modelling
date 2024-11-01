@@ -8,7 +8,6 @@ g = 9.81
 def calculate(initial_height, initial_velocity, launch_angle, air_resistance):
     angle_rad = np.radians(launch_angle)
     delta_t = 0.01
-    t_flight = (initial_velocity * np.sin(angle_rad) + np.sqrt((initial_velocity * np.sin(angle_rad)) ** 2 + 2 * g * initial_height)) / g
     # Предполагаемое время полёта, реальное будет меньше
 
     # Начальные условия
