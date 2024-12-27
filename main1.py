@@ -105,6 +105,8 @@ def main():
             I_val = sol.get(I_symbol, 0)
             print(f"  Ребро {idx} (из {start_node} в {end_node}): E={val} В,  I = {I_val.evalf()} А")
 
+    input('Нажмите любую клавишу, чтобы продолжить...')
+
 
 if __name__ == "__main__":
     main()
