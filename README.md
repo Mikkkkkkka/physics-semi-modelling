@@ -30,7 +30,7 @@ $$R=\frac{U}{I}$$
 
 #### Терминал
 
-![terminal1](images/task1/terminal.png)
+![terminal1](images/terminal1.png)
 
 
 --- 
@@ -56,4 +56,4 @@ $$Q=\frac{E}{Cd}$$
 
 #### Терминал
 
-![terminal2](images/task2/terminal.png)
+![terminal2](images/terminal2.png)
