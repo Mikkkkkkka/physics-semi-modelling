@@ -1,4 +1,4 @@
-# physics_lectures_2-15
+# physics-semi-modelling
 
 A collection of lecture and modelling tasks for physics (Physical Basis of Computing Systems)
 
