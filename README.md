@@ -4,7 +4,8 @@ A collection of lecture and modelling tasks for physics (Physical Basis of Compu
 
 ## Dependencies
 
-- numpy (**The** math library)
+- numpy (*The* math library)
 - matplotlib (object-oriented math plotting library)
 - PyQt5 (subdependency of matplotlib)
+- scypy (scientific computing library)
 
